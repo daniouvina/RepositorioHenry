@@ -1,7 +1,7 @@
 
 //Para habilitar consola, tipear node
 
-function sumaTres("x") { //funcion normal
+function sumaTres(x) { //funcion normal
 
     return x + 3;
 }
