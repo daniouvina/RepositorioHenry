@@ -22,10 +22,10 @@ var estoyAburrido = false;
 
 //Undefined
 
-var cajon1;
+var cajon1; //Variable que aun no contiene ningun dato, por lo tanto es indefinida
 
 console.log(cajon1)
 
 //null
 
-var sinNada = null;
+var sinNada = null; //Es como el undefined, pero lo definimos nosotros.
